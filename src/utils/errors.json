@@ -1,0 +1,23 @@
+{
+  "firstName": {
+    "required": "Preencha seu nome"
+  },
+  "lastName": {
+    "required": "Preencha seu sobrenome"
+  },
+  "email": {
+    "required": "Preencha seu e-mail",
+    "email": "E-mail informado é inválido"
+  },
+  "age": {
+    "required": "Preencha sua idade",
+    "typeError": "Idade não é válida"
+  },
+  "password": {
+    "required": "Preencha sua senha",
+    "min": "Precisa ter no mínimo 6 caracteres"
+  },
+  "confirmPassword": {
+    "required": "Confirme novamente sua senha"
+  }
+}
